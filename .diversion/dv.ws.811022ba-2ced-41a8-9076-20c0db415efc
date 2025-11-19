@@ -1,0 +1,14 @@
+{
+  "WorkspaceID": "dv.ws.811022ba-2ced-41a8-9076-20c0db415efc",
+  "RepoID": "dv.repo.92f445f9-b6ea-498c-97e5-ec55a85ce25e",
+  "Path": "D:\\Pekerjaan\\Unity Project\\Duo Sigma - Gimersia",
+  "AccountID": "Google_116761464411759126653",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.1",
+  "Paused": false,
+  "ShouldDownload": true,
+  "RepoName": "Duo Sigma - Gimersia",
+  "ReadOnly": false,
+  "DigestMethod": "sha1"
+}
