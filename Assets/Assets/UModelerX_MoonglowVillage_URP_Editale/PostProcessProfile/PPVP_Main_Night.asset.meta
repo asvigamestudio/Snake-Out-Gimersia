@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 294c6b6bc6e6d784a81298dd25c1faaf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 210011
+  packageName: The Moonglow Village
+  packageVersion: 1.0
+  assetPath: Assets/MoonglowVillage-BuiltInRP/PostProcessProfile/PPVP_Main_Night.asset
+  uploadId: 478769

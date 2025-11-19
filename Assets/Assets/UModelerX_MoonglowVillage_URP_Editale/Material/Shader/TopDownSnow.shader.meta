@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c6683c9d0b461464896443c32c8ec975
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _noise: {fileID: 2800000, guid: 8141007e9def95847bb119b323555290, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 210011
+  packageName: The Moonglow Village(UModeler X))
+  packageVersion: 1.1
+  assetPath: Assets/UModelerX_MoonglowVillage_URP_Editale/Material/Shader/TopDownSnow.shader
+  uploadId: 796810

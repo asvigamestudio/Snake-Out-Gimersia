@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 90e187124ed1e2c45a33c076ee824084
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 210011
+  packageName: The Moonglow Village(UModeler X))
+  packageVersion: 1.1
+  assetPath: Assets/UModelerX_MoonglowVillage_URP_Editale/Material/Shader/Terrain.shader
+  uploadId: 796810
