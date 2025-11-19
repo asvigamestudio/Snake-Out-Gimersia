@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="sc.stylizedgrass.editor.csproj" />
+  <Project Path="sc.stylizedgrass.runtime.csproj" />
+  <Project Path="Tripolygon.UModelerX.PureCode.Hub.Editor.csproj" />
+  <Project Path="sc.stylizedgrass.demo.runtime.csproj" />
+</Solution>
