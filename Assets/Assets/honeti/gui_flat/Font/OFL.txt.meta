@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d6024bd365b35924b8db37b454224e1d
+timeCreated: 1517387917
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110987
+  packageName: Flat clean GUI - over 200 PNG files!
+  packageVersion: 1.30
+  assetPath: Assets/honeti/gui_flat/Font/OFL.txt
+  uploadId: 417074
