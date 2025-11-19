@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 063bf5cefb6c95d429a4ca5e3df2165b, type: 3}
+  m_Name: Carrot
+  m_EditorClassIdentifier: Assembly-CSharp::FoodData
+  foodType: 0
+  prefab: {fileID: 5172643713140803611, guid: ebd7931c5457a5a4c8ab70b590750b4c, type: 3}
+  glowColor: {r: 1, g: 1, b: 1, a: 1}
+  scoreValue: 10
+  staminaBonus: 10
+  growCount: 1
+  spawnChance: 0.6
+  powerUpData: {fileID: 0}

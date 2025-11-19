@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 823bfb7feef11444eb12abee7f4266cf, type: 3}
+  m_Name: Stone Snake
+  m_EditorClassIdentifier: Assembly-CSharp::SnakeSkinData
+  skinName: Stone Snake
+  previewImage: {fileID: 21300000, guid: 053a7b1ab2d55a94a9dccfd7f5a11475, type: 3}
+  headPrefab: {fileID: 8970990115647029707, guid: 7637c452a022604448617b66497801c0, type: 3}
+  bodyPrefab: {fileID: 642495875160701457, guid: c6b282d40e1515646904bb6acd1cc2e0, type: 3}
+  baseSpeed: 4
+  boostMultiplier: 3
+  maxStamina: 100
+  staminaRegenRate: 20
+  staminaDrainRate: 40
+  canHideLonger: 1

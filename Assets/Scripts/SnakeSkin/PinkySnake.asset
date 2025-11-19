@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 823bfb7feef11444eb12abee7f4266cf, type: 3}
+  m_Name: PinkySnake
+  m_EditorClassIdentifier: Assembly-CSharp::SnakeSkinData
+  skinName: Pinky Snake
+  previewImage: {fileID: 21300000, guid: 205db520e8c117b46bf10259ab76e37b, type: 3}
+  headPrefab: {fileID: 4863016880388263651, guid: 0fdc6846795abe049802c0822503c2df, type: 3}
+  bodyPrefab: {fileID: 1014453771366489859, guid: 49d73911d0fd00f43a87a36fdcad7874, type: 3}
+  baseSpeed: 5
+  boostMultiplier: 3
+  maxStamina: 100
+  staminaRegenRate: 20
+  staminaDrainRate: 40
+  canHideLonger: 1

@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4384942716097583906
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_ENV_stone_triplanar_color_gradient_lit
+  m_Shader: {fileID: 4800000, guid: d6b0305ff40e8ea4bb043fc5165408fc, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _GRADIENTBYWORLDORUV_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_1C7A59BA:
+        m_Texture: {fileID: 2800000, guid: 6d5dbe060bc0b8341865df7374562295, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_2DB36EA1:
+        m_Texture: {fileID: 2800000, guid: 13ef192a703eb17478260700a144354d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_62B092FA:
+        m_Texture: {fileID: 2800000, guid: 2870f4266a0e6194da1a4cf9b560771d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_9CABAA75:
+        m_Texture: {fileID: 2800000, guid: fecb032dcdda3894dba78475cb9ffef3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_C9FD1B4:
+        m_Texture: {fileID: 2800000, guid: bcc487b0b82b6fd44a3ab1c7786e0f2c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_E49F7C8B:
+        m_Texture: {fileID: 2800000, guid: 4b8eefa8060083c47898ee29886a089b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_1F79E31F: 0
+    - Vector1_20BF6F29: 0.561
+    - Vector1_2E2F8815: 0.94
+    - Vector1_34F2C63E: 1.63
+    - Vector1_354D04E6: 1
+    - Vector1_4B07FDE0: 4.7
+    - Vector1_5F4D0392: 1
+    - Vector1_5FAA216F: 0.25
+    - Vector1_6190DF09: 0
+    - Vector1_725B1ED: 0
+    - Vector1_798533FC: 1.28
+    - Vector1_8C04E36: 0.17
+    - Vector1_B9A92598: 1
+    - Vector1_CDBCD79F: 1
+    - Vector1_D16F3B98: 1.09
+    - Vector1_D94F85E1: 0.663
+    - Vector1_EA7D87C6: 1.1
+    - Vector1_EAF5F502: 0.803
+    - _AlphaCutoff: 0.5
+    - _EnvironmentReflections: 1
+    - _GradientAmount: 0.5
+    - _GradientFalloff: 0.3
+    - _GradientOffset: 0.033
+    - _GradientbyworldorUV: 1
+    - _QueueControl: -1
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _Smoothness: 0.065
+    - _SpecularHighlights: 1
+    m_Colors:
+    - Color_20B8E31E: {r: 1, g: 0.85340595, b: 0.5801887, a: 1}
+    - Color_2548657C: {r: 0.9607843, g: 0.45789072, b: 0.26666665, a: 1}
+    - Color_41B01419: {r: 1, g: 1, b: 1, a: 0}
+    - Color_646F0F0E: {r: 0.6320754, g: 0.3222379, b: 0.24746348, a: 0}
+    - Color_761E9EA1: {r: 1, g: 0.69131136, b: 0.4575472, a: 1}
+    - Color_891FBA38: {r: 0.98039216, g: 0.6023479, b: 0.2627451, a: 1}
+    - Color_8D14FD56: {r: 0, g: 0, b: 0, a: 0}
+    - Color_A1532F03: {r: 0.9245283, g: 0.52470535, b: 0.3009078, a: 1}
+    - Color_BF10CAA4: {r: 0.972549, g: 0.39589936, b: 0.33725494, a: 1}
+    - Color_E76ED749: {r: 0.7877358, g: 1, b: 0.973467, a: 1}
+    - _ColorFront: {r: 0.9607844, g: 0.45882356, b: 0.26666668, a: 0}
+    - _ColorGradient: {r: 0.6784314, g: 0.30588236, b: 0.21568629, a: 0}
+    - _ColorSide: {r: 0.92549026, g: 0.5254902, b: 0.3019608, a: 0}
+    - _ColorTop: {r: 1, g: 0.6901961, b: 0.45882356, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
